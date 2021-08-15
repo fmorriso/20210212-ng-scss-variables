@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-scss-variables"
+  "defaultProject": "ng-scss-variables",
+  "cli": {
+    "analytics": false
+  }
 }
